@@ -6,7 +6,7 @@ In addition, the code shows some datas about computing time, number of flops, et
 
 **********************************************************************
 
-Copyright (C) 2018 Caetán Tojeiro Carpente
+Copyleft (C) 2018 Caetán Tojeiro Carpente
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
 
